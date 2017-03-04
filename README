@@ -1,0 +1,11 @@
+1. Figure out with SMS Gateway API to use
+2. Design what the app does in more details:
+  a. Send sms
+  b. Receive sms
+  c. Write sms to temp table
+  d. Write data to a cloud storage (Socrata API?)
+
+3. Design how the app is implemented:
+  a. Ruby Twilio library?
+  b. File-based datastore?
+  c. Hosting service
